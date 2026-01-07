@@ -1,4 +1,4 @@
 # rits-demo
 This is my first repository
 <br>
-Author - prameya patil
+Author - prameya patil (rits)
